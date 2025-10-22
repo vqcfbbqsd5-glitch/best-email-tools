@@ -1,0 +1,37 @@
+[
+  {
+    "Offer": "GetResponse",
+    "Recurring Commission Rate": "40%-60%",
+    "Cookie Duration": "90 days",
+    "Approval Time": "Instant (PartnerStack)",
+    "Niche Demand": "High (Email marketing & digital marketing)"
+  },
+  {
+    "Offer": "SocialPilot",
+    "Recurring Commission Rate": "20%",
+    "Cookie Duration": "90 days",
+    "Approval Time": "Instant",
+    "Niche Demand": "Medium (Social media management)"
+  },
+  {
+    "Offer": "HubSpot",
+    "Recurring Commission Rate": "30%",
+    "Cookie Duration": "180 days",
+    "Approval Time": "Instant",
+    "Niche Demand": "High (CRM & marketing)"
+  },
+  {
+    "Offer": "NordVPN",
+    "Recurring Commission Rate": "40% (new signups) + 30% (renewals)",
+    "Cookie Duration": "30 days",
+    "Approval Time": "Instant",
+    "Niche Demand": "High (Cybersecurity & VPN)"
+  },
+  {
+    "Offer": "Cloudways",
+    "Recurring Commission Rate": "Up to $125 per sale + lifetime recurring",
+    "Cookie Duration": "90 days",
+    "Approval Time": "1-2 days",
+    "Niche Demand": "Medium (Cloud hosting)"
+  }
+]
