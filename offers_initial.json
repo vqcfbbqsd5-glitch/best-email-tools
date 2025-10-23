@@ -1,37 +1,37 @@
 [
   {
-    "Offer": "GetResponse",
-    "Recurring Commission Rate": "40%-60%",
-    "Cookie Duration": "90 days",
-    "Approval Time": "Instant (PartnerStack)",
-    "Niche Demand": "High (Email marketing & digital marketing)"
-  },
-  {
-    "Offer": "SocialPilot",
-    "Recurring Commission Rate": "20%",
+    "Offer": "MailerLite",
+    "Recurring Commission Rate": "30% lifetime",
     "Cookie Duration": "90 days",
     "Approval Time": "Instant",
-    "Niche Demand": "Medium (Social media management)"
+    "Niche Demand": "High (Email marketing & content creators)"
   },
   {
-    "Offer": "HubSpot",
-    "Recurring Commission Rate": "30%",
-    "Cookie Duration": "180 days",
+    "Offer": "ConvertKit",
+    "Recurring Commission Rate": "30% recurring up to 24 months",
+    "Cookie Duration": "60 days",
     "Approval Time": "Instant",
-    "Niche Demand": "High (CRM & marketing)"
+    "Niche Demand": "High (Creators & email marketing)"
   },
   {
-    "Offer": "NordVPN",
-    "Recurring Commission Rate": "40% (new signups) + 30% (renewals)",
-    "Cookie Duration": "30 days",
-    "Approval Time": "Instant",
-    "Niche Demand": "High (Cybersecurity & VPN)"
-  },
-  {
-    "Offer": "Cloudways",
-    "Recurring Commission Rate": "Up to $125 per sale + lifetime recurring",
+    "Offer": "Brevo",
+    "Recurring Commission Rate": "€100 per paid customer + $5 per free signup",
     "Cookie Duration": "90 days",
     "Approval Time": "1-2 days",
-    "Niche Demand": "Medium (Cloud hosting)"
+    "Niche Demand": "High (Email marketing & CRM)"
+  },
+  {
+    "Offer": "ActiveCampaign",
+    "Recurring Commission Rate": "20-30% recurring",
+    "Cookie Duration": "90 days",
+    "Approval Time": "Instant",
+    "Niche Demand": "High (Marketing automation & CRM)"
+  },
+  {
+    "Offer": "Moosend",
+    "Recurring Commission Rate": "30-40% lifetime recurring",
+    "Cookie Duration": "90 days",
+    "Approval Time": "Instant",
+    "Niche Demand": "High (Email marketing & automation)"
   }
 ]
